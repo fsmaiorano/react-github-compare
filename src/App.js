@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import styled from 'styled-components';
+
+import './styles/global';
 
 class App extends Component {
   render() {
